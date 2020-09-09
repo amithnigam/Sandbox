@@ -2,4 +2,7 @@ dummy not to be checked in
 
 Modified from Another account
 
+To check if merging works using wmergetool
 dfdf
+
+XYZ
